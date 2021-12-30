@@ -1,0 +1,7 @@
+*/**.v
+*/**.fir
+*/**.json
+*/**/target
+*/**/project
+*/**/efinix/*
+!*/**/efinix/*.xml
